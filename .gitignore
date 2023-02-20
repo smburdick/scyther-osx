@@ -1,0 +1,5 @@
+*.pyc
+progressbar.py
+Cache
+Cache-OLD
+.DS_Store
